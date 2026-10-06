@@ -139,3 +139,128 @@ Measure:
 - 한 국가/세그먼트에서 검증된 루프를 다른 시장으로 복제할 수 있는가?
 
 통과하지 못한 사업은 유지비를 제한하고, 통과한 사업에 자본·시간을 집중한다.
+
+
+## Unicorn operating doctrine — fixed
+
+The portfolio is not operated as four independent companies. It is managed as one AI-native company with distinct growth engines:
+
+- **OneDayBooks = Revenue Engine**
+  - Immediate goal: paid publishing customers and repeatable revenue.
+  - Strategic transition: publishing service → AI Publishing OS → publishing platform/infrastructure.
+  - Core proof: a customer can move from manuscript to publishable/distributable output with progressively less founder/manual labor.
+
+- **KeywordTrip = Search / Commerce Engine**
+  - Prove question → answer → commercial action at scale.
+  - SEO/AEO/GEO traffic is valuable only when it produces measurable affiliate/booking intent and revenue.
+
+- **Qsapiens = Community / Retention Engine**
+  - Build repeat participation, membership, referrals and creator/reader relationships.
+  - Optimize second attendance and 30-day repeat before paid acquisition.
+
+- **K-Jam = Marketplace / Network Effect Option**
+  - Prove that quality hosts attract participants and participant demand attracts better hosts.
+  - Scale only after repeatable applications/attendance and marketplace liquidity appear.
+
+### Portfolio capital allocation rule
+Do not grow all products equally.
+Allocate founder time, capital, AI operators and marketing budget by evidence:
+1. Revenue growth
+2. Repeatability without founder labor
+3. CAC/LTV quality
+4. Retention/repeat usage
+5. Data/network effects
+6. Geographic or segment portability
+
+Projects that fail these tests stay in low-cost experiment mode. Projects that pass receive concentrated resources.
+
+### No-new-product gate
+A new product or feature should normally be rejected unless it materially improves at least one of:
+- revenue
+- conversion
+- acquisition cost
+- retention/repeat usage
+- proprietary data/network effect
+- strategic distribution
+
+Prefer strengthening an existing growth loop over creating another standalone product.
+
+## OneDayBooks unicorn path
+
+### Phase 1 — Revenue proof
+Build a repeatable funnel:
+Search / referral / content → qualified consultation → package selection → payment → completed publication → testimonial/referral.
+
+### Phase 2 — Workflow productization
+Convert manual steps into structured, reusable AI workflows:
+manuscript intake → editorial diagnosis → editing/proofing → design production → ISBN/admin workflow → distribution prep → launch assets → post-launch reporting.
+
+Every workflow should record:
+- inputs
+- AI work
+- human approval required
+- elapsed time
+- exceptions
+- final outcome
+
+### Phase 3 — Self-service OS
+Move from “we do the work for you” toward “authors/publishers operate the system themselves with AI assistance.”
+Founder intervention should become exception handling, not the default path.
+
+### Phase 4 — Platform
+Add reusable infrastructure for authors, publishers, businesses and institutions:
+- publishing workflow
+- vendor/printing/distribution connections
+- rights/metadata
+- launch/marketing tools
+- performance analytics
+- repeat publishing history
+
+### Phase 5 — Network/data advantage
+The system should become better as more books and publishers use it:
+- better workflow benchmarks
+- better exception handling
+- stronger vendor/distribution routing
+- better conversion benchmarks
+- reusable publishing metadata and templates
+
+### Phase 6 — International replication
+Only after domestic unit economics and workflow repeatability are proven:
+Korean workflow → bilingual workflow → English-language publishing markets.
+
+## 12-month evidence targets
+The goal is not “become a unicorn in 12 months.” The goal is to produce evidence that supports a unicorn trajectory.
+
+### 0–3 months
+- Repeatable paid acquisition or organic acquisition loop for OneDayBooks
+- Clean funnel measurement from visit to payment
+- Multiple paid customer cases
+- Founder time per project measured
+
+### 3–6 months
+- Highest-friction manual publishing steps converted to AI workflows
+- Founder/manual time per project materially reduced
+- Repeat/referral behavior measured
+- Clear package-level unit economics
+
+### 6–12 months
+- Self-service or semi-self-service publishing workflow live
+- Revenue not tightly proportional to founder hours
+- At least one scalable acquisition channel
+- Evidence that additional customers improve workflow/data/operations
+- Initial test of international portability
+
+## Weekly unicorn review
+Every week, review:
+1. Revenue
+2. Paid conversions
+3. Founder hours per completed customer/project
+4. CAC
+5. Gross margin
+6. Repeat/referral rate
+7. Retention
+8. Number of workflow steps automated
+9. Number of exceptions requiring human intervention
+10. Evidence of data/network effects
+
+The company advances toward a unicorn only when revenue and usage can grow faster than founder labor.
